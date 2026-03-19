@@ -5,7 +5,6 @@ app.get('/api/profiles', (req, res) => {
   res.json({ profiles: [] });
 });
 
-const PORT = 3003;
-app.listen(PORT, () => {
-  console.log(`Player profiles server running on port ${PORT}`);
+app.listen(3003, () => {
+  console.log('Player profiles server running on port 3003');
 });

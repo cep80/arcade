@@ -2,10 +2,9 @@
 const app = express();
 
 app.get('/api/metadata', (req, res) => {
-  res.json({ games: [] });
+  res.json({ metadata: {} });
 });
 
-const PORT = 3002;
-app.listen(PORT, () => {
-  console.log(`Game metadata server running on port ${PORT}`);
+app.listen(3002, () => {
+  console.log('Game metadata server running on port 3002');
 });
