@@ -3,8 +3,8 @@
 ## Arcade PC Setup
 - **OS:** Windows 10
 - **Location:** D:\arcade
-- **Tailscale IP:** (get this from Tailscale system tray on arcade PC)
-- **Node.js version:** (run `node --version`)
+- **Tailscale IP:** 100.82.102.87
+- **Node.js version:** v24.14.0
 
 ## Project Structure
 - **Frontend:** D:\arcade\frontend (Express server on port 3000)
@@ -12,7 +12,7 @@
   - rom-server (port 3001)
   - game-metadata (port 3002)
   - player-profiles (port 3003)
-- **ROM library:** D:\arcade\roms (path TBD — where are ROMs stored?)
+- **ROM library:** D:\arcade\roms
 - **Logs:** D:\arcade\logs
 
 ## PM2 Services (All Online)
@@ -29,14 +29,14 @@
   - 0e5f46a: add frontend server and PM2 config
 
 ## Vercel Deployment
-- **Status:** (Deployed? Pending? Local only?)
-- **URL:** (if deployed, what's the Vercel URL?)
+- **Status:** Not yet deployed (Step 19 pending)
+- **URL:** TBD
 
 ## Known Issues
 - None yet
 
 ## Next Steps
-1. Confirm Tailscale IP on arcade PC
-2. Confirm ROM library path
-3. Deploy frontend to Vercel
-4. Test inter-service communication (frontend → rom-server, etc.)
+1. Deploy frontend to Vercel (Step 19-20)
+2. Test inter-service communication (frontend → rom-server, etc.)
+3. Set up ROM ingestion pipeline
+4. Configure Discord bot for deployments
