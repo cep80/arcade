@@ -1,0 +1,1230 @@
+2026-03-19 17:57:34 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:34 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:34 -05:00:               ^^^
+2026-03-19 17:57:34 -05:00: 
+2026-03-19 17:57:34 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:34 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:34 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:34 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:34 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:34 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:34 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:34 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:34 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:34 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:34 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:36 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:36 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:36 -05:00:               ^^^
+2026-03-19 17:57:36 -05:00: 
+2026-03-19 17:57:36 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:36 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:36 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:36 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:36 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:36 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:36 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:36 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:36 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:36 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:36 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:38 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:38 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:38 -05:00:               ^^^
+2026-03-19 17:57:38 -05:00: 
+2026-03-19 17:57:38 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:38 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:38 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:38 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:38 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:38 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:38 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:38 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:38 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:38 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:38 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:41 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:41 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:41 -05:00:               ^^^
+2026-03-19 17:57:41 -05:00: 
+2026-03-19 17:57:41 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:41 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:41 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:41 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:41 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:41 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:41 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:41 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:41 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:41 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:41 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:43 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:43 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:43 -05:00:               ^^^
+2026-03-19 17:57:43 -05:00: 
+2026-03-19 17:57:43 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:43 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:43 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:43 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:43 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:43 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:43 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:43 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:43 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:43 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:43 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:45 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:45 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:45 -05:00:               ^^^
+2026-03-19 17:57:45 -05:00: 
+2026-03-19 17:57:45 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:45 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:45 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:45 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:45 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:45 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:45 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:45 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:45 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:45 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:45 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:47 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:47 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:47 -05:00:               ^^^
+2026-03-19 17:57:47 -05:00: 
+2026-03-19 17:57:47 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:47 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:47 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:47 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:47 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:47 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:47 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:47 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:47 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:47 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:47 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:50 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:50 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:50 -05:00:               ^^^
+2026-03-19 17:57:50 -05:00: 
+2026-03-19 17:57:50 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:50 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:50 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:50 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:50 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:50 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:50 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:50 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:50 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:50 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:50 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:52 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:52 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:52 -05:00:               ^^^
+2026-03-19 17:57:52 -05:00: 
+2026-03-19 17:57:52 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:52 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:52 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:52 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:52 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:52 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:52 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:52 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:52 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:52 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:52 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:54 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:54 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:54 -05:00:               ^^^
+2026-03-19 17:57:54 -05:00: 
+2026-03-19 17:57:54 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:54 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:54 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:54 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:54 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:54 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:54 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:54 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:54 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:54 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:54 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:56 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:56 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:56 -05:00:               ^^^
+2026-03-19 17:57:56 -05:00: 
+2026-03-19 17:57:56 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:56 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:56 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:56 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:56 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:56 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:56 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:56 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:56 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:56 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:56 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:59 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:57:59 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:57:59 -05:00:               ^^^
+2026-03-19 17:57:59 -05:00: 
+2026-03-19 17:57:59 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:57:59 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:57:59 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:57:59 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:59 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:59 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:57:59 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:57:59 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:57:59 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:57:59 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:57:59 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:01 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:01 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:01 -05:00:               ^^^
+2026-03-19 17:58:01 -05:00: 
+2026-03-19 17:58:01 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:01 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:01 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:01 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:01 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:01 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:01 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:01 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:01 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:01 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:01 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:03 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:03 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:03 -05:00:               ^^^
+2026-03-19 17:58:03 -05:00: 
+2026-03-19 17:58:03 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:03 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:03 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:03 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:03 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:03 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:03 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:03 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:03 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:03 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:03 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:05 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:05 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:05 -05:00:               ^^^
+2026-03-19 17:58:05 -05:00: 
+2026-03-19 17:58:05 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:05 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:05 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:05 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:05 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:05 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:05 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:05 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:05 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:05 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:05 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:08 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:08 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:08 -05:00:               ^^^
+2026-03-19 17:58:08 -05:00: 
+2026-03-19 17:58:08 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:08 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:08 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:08 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:08 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:08 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:08 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:08 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:08 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:08 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:08 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:10 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:10 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:10 -05:00:               ^^^
+2026-03-19 17:58:10 -05:00: 
+2026-03-19 17:58:10 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:10 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:10 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:10 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:10 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:10 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:10 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:10 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:10 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:10 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:10 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:12 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:12 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:12 -05:00:               ^^^
+2026-03-19 17:58:12 -05:00: 
+2026-03-19 17:58:12 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:12 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:12 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:12 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:12 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:12 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:12 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:12 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:12 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:12 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:12 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:14 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:14 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:14 -05:00:               ^^^
+2026-03-19 17:58:14 -05:00: 
+2026-03-19 17:58:14 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:14 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:14 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:14 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:14 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:14 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:14 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:14 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:14 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:14 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:14 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:17 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:17 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:17 -05:00:               ^^^
+2026-03-19 17:58:17 -05:00: 
+2026-03-19 17:58:17 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:17 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:17 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:17 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:17 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:17 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:17 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:17 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:17 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:17 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:17 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:19 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:19 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:19 -05:00:               ^^^
+2026-03-19 17:58:19 -05:00: 
+2026-03-19 17:58:19 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:19 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:19 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:19 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:19 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:19 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:19 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:19 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:19 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:19 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:19 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:21 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:21 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:21 -05:00:               ^^^
+2026-03-19 17:58:21 -05:00: 
+2026-03-19 17:58:21 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:21 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:21 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:21 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:21 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:21 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:21 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:21 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:21 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:21 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:21 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:23 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:23 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:23 -05:00:               ^^^
+2026-03-19 17:58:23 -05:00: 
+2026-03-19 17:58:23 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:23 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:23 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:23 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:23 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:23 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:23 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:23 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:23 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:23 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:23 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:26 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:26 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:26 -05:00:               ^^^
+2026-03-19 17:58:26 -05:00: 
+2026-03-19 17:58:26 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:26 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:26 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:26 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:26 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:26 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:26 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:26 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:26 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:26 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:26 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:28 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:28 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:28 -05:00:               ^^^
+2026-03-19 17:58:28 -05:00: 
+2026-03-19 17:58:28 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:28 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:28 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:28 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:28 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:28 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:28 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:28 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:28 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:28 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:28 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:30 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:30 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:30 -05:00:               ^^^
+2026-03-19 17:58:30 -05:00: 
+2026-03-19 17:58:30 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:30 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:30 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:30 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:30 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:30 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:30 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:30 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:30 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:30 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:30 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:32 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:32 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:32 -05:00:               ^^^
+2026-03-19 17:58:32 -05:00: 
+2026-03-19 17:58:32 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:32 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:32 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:32 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:32 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:32 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:32 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:32 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:32 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:32 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:32 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:35 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:35 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:35 -05:00:               ^^^
+2026-03-19 17:58:35 -05:00: 
+2026-03-19 17:58:35 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:35 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:35 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:35 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:35 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:35 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:35 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:35 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:35 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:35 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:35 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:37 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:37 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:37 -05:00:               ^^^
+2026-03-19 17:58:37 -05:00: 
+2026-03-19 17:58:37 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:37 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:37 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:37 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:37 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:37 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:37 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:37 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:37 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:37 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:37 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:39 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:39 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:39 -05:00:               ^^^
+2026-03-19 17:58:39 -05:00: 
+2026-03-19 17:58:39 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:39 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:39 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:39 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:39 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:39 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:39 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:39 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:39 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:39 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:39 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:41 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:41 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:41 -05:00:               ^^^
+2026-03-19 17:58:41 -05:00: 
+2026-03-19 17:58:41 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:41 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:41 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:41 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:41 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:41 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:41 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:41 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:41 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:41 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:41 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:44 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:44 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:44 -05:00:               ^^^
+2026-03-19 17:58:44 -05:00: 
+2026-03-19 17:58:44 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:44 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:44 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:44 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:44 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:44 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:44 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:44 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:44 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:44 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:44 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:46 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:46 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:46 -05:00:               ^^^
+2026-03-19 17:58:46 -05:00: 
+2026-03-19 17:58:46 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:46 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:46 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:46 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:46 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:46 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:46 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:46 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:46 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:46 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:46 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:48 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:48 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:48 -05:00:               ^^^
+2026-03-19 17:58:48 -05:00: 
+2026-03-19 17:58:48 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:48 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:48 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:48 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:48 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:48 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:48 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:48 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:48 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:48 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:48 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:50 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:50 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:50 -05:00:               ^^^
+2026-03-19 17:58:50 -05:00: 
+2026-03-19 17:58:50 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:50 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:50 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:50 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:50 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:50 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:50 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:50 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:50 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:50 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:50 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:53 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:53 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:53 -05:00:               ^^^
+2026-03-19 17:58:53 -05:00: 
+2026-03-19 17:58:53 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:53 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:53 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:53 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:53 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:53 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:53 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:53 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:53 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:53 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:53 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:55 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:55 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:55 -05:00:               ^^^
+2026-03-19 17:58:55 -05:00: 
+2026-03-19 17:58:55 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:55 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:55 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:55 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:55 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:55 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:55 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:55 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:55 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:55 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:55 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:57 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:58:57 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:58:57 -05:00:               ^^^
+2026-03-19 17:58:57 -05:00: 
+2026-03-19 17:58:57 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:58:57 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:58:57 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:58:57 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:57 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:57 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:58:57 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:58:57 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:58:57 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:58:57 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:58:57 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:00 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:00 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:00 -05:00:               ^^^
+2026-03-19 17:59:00 -05:00: 
+2026-03-19 17:59:00 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:00 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:00 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:00 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:00 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:00 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:00 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:00 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:00 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:00 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:00 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:02 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:02 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:02 -05:00:               ^^^
+2026-03-19 17:59:02 -05:00: 
+2026-03-19 17:59:02 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:02 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:02 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:02 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:02 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:02 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:02 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:02 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:02 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:02 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:02 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:04 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:04 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:04 -05:00:               ^^^
+2026-03-19 17:59:04 -05:00: 
+2026-03-19 17:59:04 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:04 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:04 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:04 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:04 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:04 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:04 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:04 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:04 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:04 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:04 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:06 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:06 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:06 -05:00:               ^^^
+2026-03-19 17:59:06 -05:00: 
+2026-03-19 17:59:06 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:06 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:06 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:06 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:06 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:06 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:06 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:06 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:06 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:06 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:06 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:09 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:09 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:09 -05:00:               ^^^
+2026-03-19 17:59:09 -05:00: 
+2026-03-19 17:59:09 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:09 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:09 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:09 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:09 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:09 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:09 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:09 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:09 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:09 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:09 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:11 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:11 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:11 -05:00:               ^^^
+2026-03-19 17:59:11 -05:00: 
+2026-03-19 17:59:11 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:11 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:11 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:11 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:11 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:11 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:11 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:11 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:11 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:11 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:11 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:13 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:13 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:13 -05:00:               ^^^
+2026-03-19 17:59:13 -05:00: 
+2026-03-19 17:59:13 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:13 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:13 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:13 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:13 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:13 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:13 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:13 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:13 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:13 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:13 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:15 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:15 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:15 -05:00:               ^^^
+2026-03-19 17:59:15 -05:00: 
+2026-03-19 17:59:15 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:15 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:15 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:15 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:15 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:15 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:15 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:15 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:15 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:15 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:15 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:18 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:18 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:18 -05:00:               ^^^
+2026-03-19 17:59:18 -05:00: 
+2026-03-19 17:59:18 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:18 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:18 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:18 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:18 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:18 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:18 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:18 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:18 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:18 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:18 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:20 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:20 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:20 -05:00:               ^^^
+2026-03-19 17:59:20 -05:00: 
+2026-03-19 17:59:20 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:20 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:20 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:20 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:20 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:20 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:20 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:20 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:20 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:20 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:20 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:22 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:22 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:22 -05:00:               ^^^
+2026-03-19 17:59:22 -05:00: 
+2026-03-19 17:59:22 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:22 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:22 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:22 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:22 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:22 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:22 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:22 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:22 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:22 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:22 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:24 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:24 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:24 -05:00:               ^^^
+2026-03-19 17:59:24 -05:00: 
+2026-03-19 17:59:24 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:24 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:24 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:24 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:24 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:24 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:24 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:24 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:24 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:24 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:24 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:27 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:27 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:27 -05:00:               ^^^
+2026-03-19 17:59:27 -05:00: 
+2026-03-19 17:59:27 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:27 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:27 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:27 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:27 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:27 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:27 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:27 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:27 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:27 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:27 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:29 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:29 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:29 -05:00:               ^^^
+2026-03-19 17:59:29 -05:00: 
+2026-03-19 17:59:29 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:29 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:29 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:29 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:29 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:29 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:29 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:29 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:29 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:29 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:29 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:31 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:31 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:31 -05:00:               ^^^
+2026-03-19 17:59:31 -05:00: 
+2026-03-19 17:59:31 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:31 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:31 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:31 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:31 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:31 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:31 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:31 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:31 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:31 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:31 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:34 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:34 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:34 -05:00:               ^^^
+2026-03-19 17:59:34 -05:00: 
+2026-03-19 17:59:34 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:34 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:34 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:34 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:34 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:34 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:34 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:34 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:34 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:34 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:34 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:36 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:36 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:36 -05:00:               ^^^
+2026-03-19 17:59:36 -05:00: 
+2026-03-19 17:59:36 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:36 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:36 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:36 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:36 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:36 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:36 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:36 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:36 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:36 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:36 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:38 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:38 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:38 -05:00:               ^^^
+2026-03-19 17:59:38 -05:00: 
+2026-03-19 17:59:38 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:38 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:38 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:38 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:38 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:38 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:38 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:38 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:38 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:38 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:38 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:40 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:40 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:40 -05:00:               ^^^
+2026-03-19 17:59:40 -05:00: 
+2026-03-19 17:59:40 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:40 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:40 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:40 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:40 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:40 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:40 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:40 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:40 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:40 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:40 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:42 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:42 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:42 -05:00:               ^^^
+2026-03-19 17:59:42 -05:00: 
+2026-03-19 17:59:42 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:42 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:42 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:42 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:42 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:42 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:42 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:42 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:42 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:42 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:42 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:45 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:45 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:45 -05:00:               ^^^
+2026-03-19 17:59:45 -05:00: 
+2026-03-19 17:59:45 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:45 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:45 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:45 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:45 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:45 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:45 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:45 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:45 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:45 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:45 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:47 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:47 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:47 -05:00:               ^^^
+2026-03-19 17:59:47 -05:00: 
+2026-03-19 17:59:47 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:47 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:47 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:47 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:47 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:47 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:47 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:47 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:47 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:47 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:47 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:49 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:49 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:49 -05:00:               ^^^
+2026-03-19 17:59:49 -05:00: 
+2026-03-19 17:59:49 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:49 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:49 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:49 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:49 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:49 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:49 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:49 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:49 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:49 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:49 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:51 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:51 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:51 -05:00:               ^^^
+2026-03-19 17:59:51 -05:00: 
+2026-03-19 17:59:51 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:51 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:51 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:51 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:51 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:51 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:51 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:51 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:51 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:51 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:51 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:54 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:54 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:54 -05:00:               ^^^
+2026-03-19 17:59:54 -05:00: 
+2026-03-19 17:59:54 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:54 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:54 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:54 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:54 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:54 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:54 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:54 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:54 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:54 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:54 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:56 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:56 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:56 -05:00:               ^^^
+2026-03-19 17:59:56 -05:00: 
+2026-03-19 17:59:56 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:56 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:56 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:56 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:56 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:56 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:56 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:56 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:56 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:56 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:56 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:58 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 17:59:58 -05:00:   console.log(ROM server running on port );
+2026-03-19 17:59:58 -05:00:               ^^^
+2026-03-19 17:59:58 -05:00: 
+2026-03-19 17:59:58 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 17:59:58 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 17:59:58 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 17:59:58 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:58 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:58 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 17:59:58 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 17:59:58 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 17:59:58 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 17:59:58 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 17:59:58 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:00 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:00 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:00 -05:00:               ^^^
+2026-03-19 18:00:00 -05:00: 
+2026-03-19 18:00:00 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:00 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:00 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:00 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:00 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:00 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:00 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:00 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:00 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:00 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:00 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:03 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:03 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:03 -05:00:               ^^^
+2026-03-19 18:00:03 -05:00: 
+2026-03-19 18:00:03 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:03 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:03 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:03 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:03 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:03 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:03 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:03 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:03 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:03 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:03 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:05 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:05 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:05 -05:00:               ^^^
+2026-03-19 18:00:05 -05:00: 
+2026-03-19 18:00:05 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:05 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:05 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:05 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:05 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:05 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:05 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:05 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:05 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:05 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:05 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:07 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:07 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:07 -05:00:               ^^^
+2026-03-19 18:00:07 -05:00: 
+2026-03-19 18:00:07 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:07 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:07 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:07 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:07 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:07 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:07 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:07 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:07 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:07 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:07 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:09 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:09 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:09 -05:00:               ^^^
+2026-03-19 18:00:09 -05:00: 
+2026-03-19 18:00:09 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:09 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:09 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:09 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:09 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:09 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:09 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:09 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:09 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:09 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:09 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:12 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:12 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:12 -05:00:               ^^^
+2026-03-19 18:00:12 -05:00: 
+2026-03-19 18:00:12 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:12 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:12 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:12 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:12 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:12 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:12 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:12 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:12 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:12 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:12 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:14 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:14 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:14 -05:00:               ^^^
+2026-03-19 18:00:14 -05:00: 
+2026-03-19 18:00:14 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:14 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:14 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:14 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:14 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:14 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:14 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:14 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:14 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:14 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:14 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:16 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:16 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:16 -05:00:               ^^^
+2026-03-19 18:00:16 -05:00: 
+2026-03-19 18:00:16 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:16 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:16 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:16 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:16 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:16 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:16 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:16 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:16 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:16 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:16 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:18 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:18 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:18 -05:00:               ^^^
+2026-03-19 18:00:18 -05:00: 
+2026-03-19 18:00:18 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:18 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:18 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:18 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:18 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:18 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:18 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:18 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:18 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:18 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:18 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:21 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:21 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:21 -05:00:               ^^^
+2026-03-19 18:00:21 -05:00: 
+2026-03-19 18:00:21 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:21 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:21 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:21 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:21 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:21 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:21 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:21 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:21 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:21 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:21 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:23 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:23 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:23 -05:00:               ^^^
+2026-03-19 18:00:23 -05:00: 
+2026-03-19 18:00:23 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:23 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:23 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:23 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:23 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:23 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:23 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:23 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:23 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:23 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:23 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:25 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:25 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:25 -05:00:               ^^^
+2026-03-19 18:00:25 -05:00: 
+2026-03-19 18:00:25 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:25 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:25 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:25 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:25 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:25 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:25 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:25 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:25 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:25 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:25 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:28 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:28 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:28 -05:00:               ^^^
+2026-03-19 18:00:28 -05:00: 
+2026-03-19 18:00:28 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:28 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:28 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:28 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:28 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:28 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:28 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:28 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:28 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:28 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:28 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:30 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:30 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:30 -05:00:               ^^^
+2026-03-19 18:00:30 -05:00: 
+2026-03-19 18:00:30 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:30 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:30 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:30 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:30 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:30 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:30 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:30 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:30 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:30 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:30 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:32 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:32 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:32 -05:00:               ^^^
+2026-03-19 18:00:32 -05:00: 
+2026-03-19 18:00:32 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:32 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:32 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:32 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:32 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:32 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:32 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:32 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:32 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:32 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:32 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:34 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:34 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:34 -05:00:               ^^^
+2026-03-19 18:00:34 -05:00: 
+2026-03-19 18:00:34 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:34 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:34 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:34 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:34 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:34 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:34 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:34 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:34 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:34 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:34 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:37 -05:00: D:\arcade\backend\services\rom-server.js:10
+2026-03-19 18:00:37 -05:00:   console.log(ROM server running on port );
+2026-03-19 18:00:37 -05:00:               ^^^
+2026-03-19 18:00:37 -05:00: 
+2026-03-19 18:00:37 -05:00: SyntaxError: missing ) after argument list
+2026-03-19 18:00:37 -05:00:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-03-19 18:00:37 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-03-19 18:00:37 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:37 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:37 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-03-19 18:00:37 -05:00:     at Object.<anonymous> (C:\Users\cp\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+2026-03-19 18:00:37 -05:00:     at Module._compile (node:internal/modules/cjs/loader:1812:14)
+2026-03-19 18:00:37 -05:00:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-03-19 18:00:37 -05:00:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-03-19 18:00:37 -05:00:     at Module._load (node:internal/modules/cjs/loader:1335:12)
